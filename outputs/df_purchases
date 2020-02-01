@@ -1,0 +1,24 @@
+,index,date_hour,city,shop,client,operation,product,quantity,Loyalty_card,age,country
+0,18,2020-01-02 18:44:10,Barcelona,10,50.0,return,tortilla,1.0,Yes,,Spain
+1,17,2020-01-02 10:44:10,Barcelona,9,21.0,purchase,cheese,2.0,Yes,,Spain
+2,22,2020-03-02 02:44:10,Barcelona,9,,purchase,beer,3.0,,,Spain
+3,15,2020-01-31 18:44:10,Barcelona,8,76.0,purchase,chicken,5.0,Yes,,Spain
+4,14,2020-01-31 10:44:10,Barcelona,8,58.0,purchase,chorizo,6.0,No,,Spain
+5,21,2020-02-02 18:44:10,Barcelona,8,42.0,purchase,beer,7.0,Yes,,Spain
+6,12,2020-01-30 18:44:10,Barcelona,7,69.0,purchase,tortilla,2.0,No,40.0,Spain
+7,13,2020-01-31 02:44:10,Barcelona,7,50.0,purchase,paella,1.0,No,40.0,Spain
+8,11,2020-01-30 10:44:10,Barcelona,5,63.0,purchase,cheese,5.0,No,,Spain
+9,20,2020-02-02 10:44:10,Barcelona,5,58.0,return,chorizo,1.0,Yes,50.0,Spain
+10,16,2020-01-02 02:44:10,Barcelona,5,53.0,purchase,jam,7.0,Yes,50.0,Spain
+11,19,2020-02-02 02:44:10,Barcelona,5,50.0,purchase,paella,1.0,Yes,,Spain
+12,10,2020-01-30 02:44:10,Barcelona,5,50.0,purchase,jam,10.0,No,40.0,Spain
+13,4,2020-01-28 02:44:10,Madrid,3,85.0,purchase,pasta,2.0,No,,Spain
+14,9,2020-01-29 18:44:10,Madrid,3,57.0,purchase,chicken,7.0,No,,Spain
+15,6,2020-01-28 18:44:10,Madrid,3,26.0,purchase,bread,2.0,Yes,30.0,Spain
+16,3,2020-01-27 18:44:10,Madrid,2,60.0,purchase,pizza,3.0,No,,Spain
+17,2,2020-01-27 10:44:10,Madrid,2,50.0,purchase,dog,1.0,No,30.0,Spain
+18,5,2020-01-28 10:44:10,Madrid,2,,purchase,rice,5.0,,,Spain
+19,1,2020-01-27 02:44:10,Madrid,1,60.0,purchase,cat,1.0,No,24.0,Spain
+20,0,2020-01-26 18:44:10,Madrid,1,50.0,purchase,beer,5.0,Yes,50.0,Spain
+21,7,2020-01-29 02:44:10,Madrid,1,32.0,purchase,beans,1.0,Yes,,Spain
+22,8,2020-01-29 10:44:10,Madrid,1,,purchase,lamb,1.0,,,Spain
